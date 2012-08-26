@@ -15,3 +15,4 @@ Please take note of these restrictions and guidelines before posting in any Game
 * You are not allowed to beg for Minecraft accounts or demand free Minecraft games
 * You are not allowed to post server threads
 * You are not allowed to bump threads
+* New rule here
