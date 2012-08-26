@@ -1,6 +1,6 @@
 # Servers
 
-Servers is the section for PC specific posts to be made. 
+Servers is the section for PC specific posts to be made. Here is an edit by notcitricsquid.
 
 ## Section-wide Rules
 
@@ -23,7 +23,7 @@ All posts that violate these rules will be removed.
 ### Sub-section rules
 
 #### Minecraft Survival and Creative Servers
-
+      
 * You are not allowed to advertise cracked servers.
 * You are not allowed to make more than 1 review post per server.
 * You may not steal another server's original post, this is considered spam and plagerism.
