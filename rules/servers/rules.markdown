@@ -34,8 +34,8 @@ All posts that violate these rules will be removed.
 
 * You may not post video-related/let's play topics. Those belong here: Video/Series Help
 * There is absolutely no looking for normal players.
-* Refer to this [url="http://www.minecraftforum.net/topic/1441894-"]thread[/url] for what topic are allowed.
-* Refer to this [url="http://www.minecraftforum.net/topic/1357455"]thread[/url] for how to reply to topics.
+* Refer to this [thread](http://www.minecraftforum.net/topic/1441894-) for what topic are allowed.
+* Refer to this [thread](http://www.minecraftforum.net/topic/1441894-) for how to reply to topics.
 
 #### Server Administration
 
@@ -53,8 +53,8 @@ All posts that violate these rules will be removed.
 * Excessive Arguments or complaints are not allowed, and should be taken to a PM.
 * There should be no support posts in a host's thread, these belong within the company's own support system.
     * Informal warnings will be issued for continued support posting.
-* You must apply to post in the default section, if you do not wish to, then post in [url="http://www.minecraftforum.net/forum/46-other-hosts/"]Other Hosts.[/url]
-    * To apply for posting in that section, read [url="http://www.minecraftforum.net/topic/1254208-"]here[/url]
-* Any non-reviewed hosts go in [url="http://www.minecraftforum.net/forum/46-other-hosts/"]Other Hosts.[/url].
-* Those requesting a custom quote post in [url="http://www.minecraftforum.net/forum/130-hosting-requests/"]Hosting Requests.[/url]
+* You must apply to post in the default section, if you do not wish to, then post in [Other Hosts](http://www.minecraftforum.net/forum/46-other-hosts/).
+    * To apply for posting in that section, read [here](http://www.minecraftforum.net/topic/1254208)
+* Any non-reviewed hosts go in [Other Hosts](http://www.minecraftforum.net/forum/46-other-hosts/).
+* Those requesting a custom quote post in [Hosting Requests](http://www.minecraftforum.net/forum/130-hosting-requests/).
 * All hosts may not post in the thread of any other host. Host-to-host conversation must be taken to a PM.
