@@ -18,7 +18,7 @@ The guidelines and information below applies to the entire forum.
 
 * __Think Before Posting__
 
-    Sensible, well thought-out and legible posts help other users understand
+    Sensible, well thought-out and legible posts help other members understand
     what you are trying to explain.
 
 * __Report Content__
