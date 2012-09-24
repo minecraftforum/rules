@@ -95,6 +95,7 @@ Map Review and Showcase
 * Must have download link.
 * If you choose to use adfly, you are allowed to use it for the download link only. No other adfly links are allowed.
 * Must follow tagging format.
+* No asking or pressuring for maps to update.
 
 ### Tutorials
 
@@ -104,3 +105,13 @@ Map Review and Showcase
 ### Language Packs
 
 * Languages relevant to the translation are allowed here.
+
+### Licence/Permissions
+
+* EVERY CONTENT PACK (MAPS, MODS, TEXTURE PACKS, TOOLS ETC.) MUST PROVIDE SOME FORM OF LICENCING FOR USE, DISTRIBUTION, RE-USE, ETC.
+
+### Reporting Copyright Infringement
+
+*You must show evidence in the report.
+
+You either need to have a link to their thread on the MinecraftForums that has the copyright information of their content, or a link to their website where their copyright is displayed. Failure to do so could result in the report being dismissed due to lack of evidence.
