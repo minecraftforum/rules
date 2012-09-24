@@ -4,9 +4,7 @@
 
 * No linking to sites that require a person to do surveys or require personal information, such as cell phone numbers.
 
-## Sub Sections
-
-### Mods Discussion
+## Mods Discussion
 
 Only if it doesn't fit in other sections does it go here. Please check all others first.
 
@@ -18,7 +16,7 @@ Only threads for the advancement of mods. The mod has to have already been start
 * You are permitted to bump once every 24 hours after the last reply if you still need help.
 * NO mod teams.
 
-### Minecraft Mods
+## Minecraft Mods
 
 Released mods only. 
 
@@ -54,11 +52,11 @@ When your mod is complete, and the title is formatted correctly, download link a
 This section is only for content packs that modify existing content mods, or mods which are meant to rely on content packs for their mod.
 
 
-Texture Discussion.
+## Texture Discussion.
 Anything that does not produce textures directly belongs in this section.
 
 
-### Texture Packs
+## Texture Packs
 
 * Must follow tagging format.
 * Must have images. Videos do not qualify if no other images are posted.
@@ -67,7 +65,7 @@ Anything that does not produce textures directly belongs in this section.
 * Any required permissions must be displayed in the original post.
 * NO asking or pressuring for texture packs to update
 
-### Minecraft Tools
+## Minecraft Tools
 
 * Must have screenshots.
 * Must have download link or a link to the tool's location.
@@ -77,11 +75,11 @@ Requests / Ideas For Mods.
 
 * Must be either a request or an idea, no "Suggest things to me / Looking for ideas" threads. That's what this entire section is for.
 
-### Mapping Discussion
+## Mapping Discussion
 
 Only if it does not fit in another maps section, but is still related to maps does it go here.
 
-Map Review and Showcase
+### Map Showcase and Reviews
 
 * Must contain a link to the thread of the map you are doing a review or showcase for, not a link to the download.
 * Cannot be for advertising your youtube channel, or advertising your own map. Blatant advertisements will still be removed.
@@ -89,18 +87,18 @@ Map Review and Showcase
 * Videos must be embed in the thread.
 * Must contain at least one showcase or review.
 
-### Maps
+## Maps
 
 * Must have screenshots.
 * Must have download link.
 * If you choose to use adfly, you are allowed to use it for the download link only. No other adfly links are allowed.
 * Must follow tagging format.
 
-### Tutorials
+## Tutorials
 
 * Tutorials only. Must contain "Last updated" date or which version of MC it works for (You can put "Any" if MC version number is irrelevant.)
 * No threads asking for help here.
 
-### Language Packs
+## Language Packs
 
 * Languages relevant to the translation are allowed here.
