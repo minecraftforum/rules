@@ -1,6 +1,9 @@
 # Off Topic
 
-* Do not post minecraft-related content
+* __Do not post minecraft-related content__
+    
+    We have a whole forum dedicated to Minecraft-related content already. 
+    The Off-Topic section is only for posting content that has nothing to do with Minecraft.
 
 * __Do not sell items of any kind__
 
@@ -19,3 +22,8 @@
 
     Operating system vs. operating system and/or console vs. console, browser 
     vs. browser threads always descend into spam, flaming and flamebaiting and are therefore not allowed.
+
+*__ No video-related threads__
+    
+    If you wish to post and dicuss a video, you can do so in the Chat Thread,
+    which you can find in the General off-topic section. 
