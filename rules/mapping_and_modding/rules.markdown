@@ -4,103 +4,94 @@
 
 * No linking to sites that require a person to do surveys or require personal information, such as cell phone numbers.
 
-## Sub Sections
-
-### Mods Discussion
-
-Only if it doesn't fit in other sections does it go here. Please check all others first.
-
-### Mod Development.
-
-Only threads for the advancement of mods. The mod has to have already been started. Help with java code. 
-
-* You cannot ask for them to do it for you.
-* You are permitted to bump once every 24 hours after the last reply if you still need help.
-* NO mod teams.
-
-### Minecraft Mods
+## Minecraft Mods
 
 Released mods only. 
 
-* Must have download link.
-* If you choose to use adfly, you are allowed to use it for the download link only. No other adfly links are allowed.
-* Must modify the minecraft.jar file.
-* Must contain the class files. .exe only downloads will be removed.
-* Must have pictures.
-* Must follow tagging format.
-* Must have an installation guide.
-* Any required permissions must be displayed in the original post.
-* NO asking or pressuring for mods to update
+* Topics must have a download link
+* Must modify the minecraft.jar file
+* Must contain the class files. .exe only downloads will be removed
+* Topics must have pictures
+* Topics must follow the tagging format
+* Topics have an installation guide
+* Any required permissions must be displayed in the original post
+* Do not ask or pressure mods to be updated
+
+### Modification Development
+
+Only threads for the advancement of mods. The mod has to have already been started. Help with java code. 
+
+* Do not ask others to do it for you
+* Bumping is permitted once every 24 hours after the last reply if help is still needed
+* Mod teams are not allowed
+
+### Mod Discussion
+
+Only if it doesn't fit in other sections does it go here. Please check all others first.
+
+### Requests / Ideas For Mods.
+
+* Topics must be either a request or an idea for a mod
 
 ### WIP Mods
 
-Incomplete mods only. If the main features of the mod are not complete, it belongs in here.
-
-* Requires information.
-* Does not require a download/images.
-
-This should be used to create your final thread easier though. Add images as you can and an early release download if you would like.
-When your mod is complete, and the title is formatted correctly, download link and pictures are in the thread, you can report it to be moved to "Minecraft Mods".
-
+Incomplete mods only. If the main features of the mod are not complete, it belongs in here. When the mod is complete, and the title is formatted correctly, 
+download link and pictures are in the topic, report the topic for it to be moved to "Minecraft Mods".
 
 ### Content Packs
 
-* You must link to the original mod in your thread.
-* You must tag the original mod in your topic tag.
-* Must have pictures.
-* Must have installation instructions.
-* No asking or pressuring for a content pack to update.
+* Links to the original mod must be provided in the topic
+* The original mod must be tagged in the topic tags
+* The topic must have pictures
+* The topic must have installation instructions
+* Do not ask or pressure content packs to update
 
 This section is only for content packs that modify existing content mods, or mods which are meant to rely on content packs for their mod.
 
+## Maps
 
-Texture Discussion.
+* Topics must have screenshots
+* Topics must have a download link
+* Topics must follow the tagging format
+
+### Maps Discussion
+
+* Only topics which do not fit in another map section, but are still related to maps go here. 
+
+## Texture Packs
+
+* Topics must follow tagging format
+* __Images__
+ 
+  Topics must have images. Videos do not qualify if no other images are posted.
+
+* Topics must have a download link
+* Any required permissions must be displayed in the original post
+* Do not ask or pressure texture packs to update
+
+### Texture Discussion
+
 Anything that does not produce textures directly belongs in this section.
 
+## Skins
 
-### Texture Packs
+* Skins must be appropriate for all ages
 
-* Must follow tagging format.
-* Must have images. Videos do not qualify if no other images are posted.
-* Must have download link.
-* If you choose to use adfly, you are allowed to use it for the download link only. No other adfly links are allowed.
-* Any required permissions must be displayed in the original post.
-* NO asking or pressuring for texture packs to update
+## Minecraft Tools
 
-### Minecraft Tools
+* Topics must have screenshots
+* Topics must have download link or a link to the tool's location
+* Topics must have a "How to use" guide
 
-* Must have screenshots.
-* Must have download link or a link to the tool's location.
-* If you choose to use adfly, you are allowed to use it for the download link only. No other adfly links are allowed.-Must have a "How to use" guide.
+## Tutorials
 
-Requests / Ideas For Mods.
+* __Tutorials Only__
+ 
+    Topics must contain a "Last updated" date or which version of Minecraft it works for 
+    (You can put "Any" if Minecraft version number is irrelevant.)
 
-* Must be either a request or an idea, no "Suggest things to me / Looking for ideas" threads. That's what this entire section is for.
+* Do not post topics asking for help here
 
-### Mapping Discussion
+## Language Packs
 
-Only if it does not fit in another maps section, but is still related to maps does it go here.
-
-Map Review and Showcase
-
-* Must contain a link to the thread of the map you are doing a review or showcase for, not a link to the download.
-* Cannot be for advertising your youtube channel, or advertising your own map. Blatant advertisements will still be removed.
-* Keep your reviews or showcases to the one thread. Don't make a new thread for each new showcase/review you make.
-* Videos must be embed in the thread.
-* Must contain at least one showcase or review.
-
-### Maps
-
-* Must have screenshots.
-* Must have download link.
-* If you choose to use adfly, you are allowed to use it for the download link only. No other adfly links are allowed.
-* Must follow tagging format.
-
-### Tutorials
-
-* Tutorials only. Must contain "Last updated" date or which version of MC it works for (You can put "Any" if MC version number is irrelevant.)
-* No threads asking for help here.
-
-### Language Packs
-
-* Languages relevant to the translation are allowed here.
+* Languages relevant to the translation are allowed here

@@ -1,15 +1,21 @@
 # Off Topic
 
-* Not safe for work content is not allowed
-* Minecraft unrelated content only
-* __Do Not Disrupt Roleplay__
+* Do not post minecraft-related content
 
-    Participating in a Roleplay requires following of that Roleplay's rules.
-    Disrupting a Roleplay (or forum game) is not allowed
+* __Do not sell items of any kind__
 
-* __No OS / Browser / Console Wars__
+    The forum is not a marketplace.
+    
+* __Do not create video related threads__
 
-    Operating System vs. Ooperating System and/or Console vs. Console, Browser 
-    vs. Browser threads always descend into spam, flaming and flamebaiting so 
-    they are not allowed due to having proven again and again to not be able to 
-    hold a civilized discussion.
+    If you would like to share and discuss a video, use the official chat thread.
+    
+* __Do not disrupt roleplays / forum games__
+
+    Participating in a roleplay requires following of that roleplay's rules.
+    Disrupting a roleplay (or forum game) is not allowed.
+    
+* __No OS / browser / console wars__
+
+    Operating system vs. operating system and/or console vs. console, browser 
+    vs. browser threads always descend into spam, flaming and flamebaiting and are therefore not allowed.
