@@ -88,7 +88,7 @@ Servers is the section for PC specific posts to be made.
 
 * No malicious clans or teams are allowed, this includes but not limited to griefing clans
 * Do not use an existing clan's name for a new clan name
-* Each clan is allowed only 1 thread.
+* Each clan is allowed only 1 thread
 * Do not argue or harass another clan or members of another clan, rivalry and competition is allowed but it must remain civil
 
 ### Server Types
