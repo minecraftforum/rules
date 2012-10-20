@@ -100,7 +100,12 @@ The guidelines and information below applies to the entire forum.
     Accusing someone of trolling, which is known as "Troll Calling" is also disallowed, 
     eg: "Stop trolling", "You're a troll!". If someone is trolling they should be 
     reported.
-    
+
+*__Fully Quote Lengthy OPs__
+
+    "OP" stands for Original Post, as in the opening post of a thread. Do not quote 
+    the entirity of these posts if they prove lengthy.
+   
 ### Illegal Activity
 
 * __Piracy__
