@@ -78,12 +78,12 @@ Servers is the section for PC specific posts to be made.
 * Any feedback about a host should remain in a host's topic
 * Excessive Arguments or complaints are not allowed, and should be taken to a PM
 * Support related posts are not allowed. Use the host's own support system or send them a private message
-    * Informal warnings will be issued for continued support posting
 * A host must apply to post in the default section, otherwise they must post in the "Other Hosts" Section
 * Posts requesting a custom quote go in the Hosting Requests section
 * All hosts may not post in the topic of any other host. Host-to-host conversation must be taken to a PM
 * Hosts may offer giveaways in their topic, however the topic is not to be used for posting applications
 * The Hosting Request section is not to be used for recruiting staff for servers, this may be done in the host's topic
+* Replies to requests must meet all needs outlined in the original post and not contain irrelevant information
 
 ### Clans
 
