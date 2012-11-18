@@ -40,7 +40,8 @@ The guidelines and information below applies to the entire forum.
     As a family friendly forum we censor all profanity, however the censor is
     not an excuse to still swear; all posts that contain any instance of 
     profanity will be removed. Self censoring is considered profanity and 
-    will be treated as such. 
+    will be treated as such. Any word used like profanity is also considered
+    profanity, such as 'darn', etc. 
 
 * __Bump Threads__
     
