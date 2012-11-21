@@ -53,11 +53,12 @@ The guidelines and information below applies to the entire forum.
     common spam posts are posting "tl:dr;", "+1", "this", posting image macros,
     and nothing but memes. These sort of posts really rustle our jimmies.
 
-* __Reply to Inappropriate Content__
+* __Post Inappropriate Content__
 
-    If inappropriate content is posted the report feature should be used,
-    replying to inappropriate content escalates the issue and can result in all
-    involved parties receiving infractions.
+    Do not post content that is obscene or overtly sexual. If it isn't safe for
+    work or children, don't post it. Should you see someone posting said things,
+    the report feature should be used, replying to inappropriate content escalates
+    the issue and can result in all involved parties receiving infractions.
 
 * __Trade or Sell Minecraft Accounts__
     
