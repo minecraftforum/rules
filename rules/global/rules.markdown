@@ -20,6 +20,10 @@ The guidelines and information below applies to the entire forum.
 
     Sensible, well thought-out and legible posts help other members understand
     what you are trying to explain.
+    
+* __Stay on Topic__
+   
+    Don't derail threads with your own conversations.
 
 * __Report Content__
     
