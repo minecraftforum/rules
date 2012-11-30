@@ -19,3 +19,8 @@
 
     Operating system vs. operating system and/or console vs. console, browser 
     vs. browser threads always descend into spam, flaming and flamebaiting and are therefore not allowed.
+    
+* __No video-related threads__
+
+    If you wish to post and discuss a video, you can do so in the Chat Thread, 
+    which you can find in the General Off-Topic section. 
