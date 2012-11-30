@@ -59,6 +59,10 @@ The guidelines and information below applies to the entire forum.
     replying to inappropriate content escalates the issue and can result in all
     involved parties receiving infractions.
 
+* __Do not make blacklist threads__
+
+    Do not post threads or posts telling people to ban a certain user from their servers. 
+
 * __Trade or Sell Minecraft Accounts__
     
     We do not allow the sale of Minecraft Accounts, if you wish to acquire a

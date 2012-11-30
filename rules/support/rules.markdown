@@ -49,9 +49,6 @@ This section is for requesting support with a modified client.
 This section is for requesting support with the server client. Anything non-bukkit server technical support questions should go here.
 
 * Do not advertise your server in this section
-* __Do not make blacklist threads__
-
-    Do not post threads that tell people to ban a certain user from their servers. 
     
 * __Do not ask for Bukkit support__
 
