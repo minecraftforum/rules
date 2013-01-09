@@ -27,6 +27,12 @@
     Suggestions that are vague or unclear will be removed, for proper discussion
     to happen suggestions must be well explained and if necessary, well 
     demonstrated.
+    
+* __No Wishlists__
+
+    Do not post more than one suggestion per thread. Very closely related
+    suggestions are fine, but separate suggestions require separate threads.
+    "Wishlists" will be closed or deleted.
 
 * __Existing Mod(s)__
 
