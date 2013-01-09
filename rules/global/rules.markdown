@@ -39,7 +39,7 @@ The guidelines and information below applies to the entire forum.
 
     As a family friendly forum we censor all profanity, however the censor is
     not an excuse to still swear; all posts that contain any instance of 
-    profanity will be removed. Self-censoring is also not allowed.
+    profanity will be removed. Self-censoring and linking to content containing profanity is also not allowed.
 
 * __Bump Threads__
     
