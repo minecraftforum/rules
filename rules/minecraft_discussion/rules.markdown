@@ -15,8 +15,6 @@
 
 ## Suggestions
 
-* Each topic should have one suggestion (or one group of closely related 
-    suggestions)
 * __No Duplicate Suggestions__
 
     Do not post duplicate suggestions, if an idea has been shared before continue
