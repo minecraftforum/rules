@@ -76,6 +76,12 @@ The guidelines and information below applies to the entire forum.
     topics about your website is not allowed. If you want to advertise on
     minecraftforum.net please contact the 
     [Curse advertising department](http://www.curse.com/advertising/overview).
+    
+* __Use Referral/Affiliate Links__
+    
+    Linking to websites that provide you with cash or prizes in return for
+    getting people to view their page is not allowed. This includes affiliate
+    programs.
 
 * __Misuse Money Linking Services__
 
