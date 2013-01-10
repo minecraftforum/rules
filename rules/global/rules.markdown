@@ -51,7 +51,7 @@ The guidelines and information below applies to the entire forum.
 
     A spam post is a post that provides no value to the discussion. The most 
     common spam posts are posting "tl:dr;", "+1", "this", posting image macros,
-    and nothing but memes. These sort of posts really rustle our jimmies.
+    and nothing but memes or images. These sort of posts really rustle our jimmies.
 
 * __Reply to Inappropriate Content__
 
