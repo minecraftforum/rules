@@ -38,8 +38,7 @@ The guidelines and information below applies to the entire forum.
 * __Use Profanity__
 
     As a family friendly forum we censor all profanity, however the censor is
-    not an excuse to still swear; all posts that contain any instance of 
-    profanity will be removed. Self-censoring is also not allowed.
+    not an excuse to still swear; all instances of profanity within posts will be removed. Self-censoring and linking to content containing profanity is also not allowed.
 
 * __Bump Threads__
     
@@ -51,7 +50,7 @@ The guidelines and information below applies to the entire forum.
 
     A spam post is a post that provides no value to the discussion. The most 
     common spam posts are posting "tl:dr;", "+1", "this", posting image macros,
-    and nothing but memes. These sort of posts really rustle our jimmies.
+    and nothing but memes or images. These sort of posts really rustle our jimmies.
 
 * __Reply to Inappropriate Content__
 
