@@ -155,10 +155,11 @@ Any content that needs moderator attention should be reported. There are no pena
 Mini-modding is replying to a rule breaking post with information on the rule break. Some forms of mini-modding are allowed: 
 If a member has broken a section specific rule (such as posting in the wrong section or not including required information) members 
 are allowed to reply to the member explaining what rule has been broken and how to fix the issue. 
-To be acceptable "Mini-modding" the post must meet the following requirements
+To be acceptable "Mini-modding" the post must meet the following requirements:
 
 * Explains which rule the post breaks
 * Explains (where necessary) how the poster can rectify the issue
+* Does not include anything along the lines of "I'm reporting this post"
 
 Then the member must report the post. "Mini-modding" without reporting the post is not allowed.
 
