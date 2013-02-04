@@ -159,6 +159,7 @@ To be acceptable "Mini-modding" the post must meet the following requirements
 
 * Explains which rule the post breaks
 * Explains (where necessary) how the poster can rectify the issue
+* Does not make statements such as: "reported", "I've told the mods", "This will be locked now" etc.
 
 Then the member must report the post. "Mini-modding" without reporting the post is not allowed.
 
