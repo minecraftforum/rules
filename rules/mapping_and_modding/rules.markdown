@@ -87,7 +87,7 @@ Anything that does not produce textures directly belongs in this section.
 
 ## Tutorials
 
-* Tutorials only
+* Tutorials on Mapping and Modding only, no game tutorials allowed.
 * Topics must contain a "Last updated" date or which version of Minecraft it works for, or "Any" if the verison does not matter
 * Do not post topics asking for help here
 
