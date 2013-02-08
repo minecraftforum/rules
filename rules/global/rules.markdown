@@ -47,6 +47,12 @@ The guidelines and information below applies to the entire forum.
     is not allowed, a topic should only be on the front page of a forum if there
     is active discussion taking place.
 
+* __Necro Post__
+    
+    Please do not reply to extremely old threads unless you are continuing 
+    substantial discussion of the topic. Contentless bumps which add very
+    little to the discussion will be removed.
+
 * __Spam__
 
     A spam post is a post that provides no value to the discussion. The most 
