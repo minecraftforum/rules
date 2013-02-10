@@ -116,6 +116,11 @@ The guidelines and information below applies to the entire forum.
     Please do not reply to extremely old threads unless you are continuing
     substantial discussion of the topic. Contentless bumps which add very
     little to the discussion will be removed.
+
+* __Post Blacklists__
+
+    Do not post IGN's, IP's or gamertags within ban/grief/warn threads. These
+    blacklists have been used in the past to hurt innocent people.
     
 ### Illegal Activity
 
