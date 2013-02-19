@@ -2,6 +2,8 @@
 
 * Do not post minecraft-related content
 
+    With the excpection of Science, Computers, and Technology is applicable.
+
 * __Do not sell or trade items of any kind__
 
     The forum is not a marketplace.
