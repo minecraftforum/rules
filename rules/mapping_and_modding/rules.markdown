@@ -3,6 +3,7 @@
 ## General Rules
 
 * No linking to sites that require a person to do surveys or require personal information, such as cell phone numbers.
+* No posting download milestones or landmarks. These are considered spam, and should be posted only in the opening post.
 
 ## Minecraft Mods
 
