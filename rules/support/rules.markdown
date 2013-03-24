@@ -1,6 +1,6 @@
 # Minecraft Support
 
-* __Threads can be "Bumped" every 12 hours if no one responds__
+* __Threads can be "bumped" every 12 hours if no one responds__
 
     This is allowed in this section because users actually need a response in this section.
 
@@ -20,7 +20,7 @@
 
     Personal information includes: Your location, your birthday, your transaction id, and credit card details. This information can be used to steal your Minecraft/Mojang account, and should not be given out under any circumstances.
 
-* __Do not request help on Topics that do not relate to your issue__
+* __Do not request help on topics that do not relate to your issue__
 
     If you cannot find a topic that relates to your issue, then make a new topic about your issue. Posting on random support threads will just make it harder for other people to get support.
     
@@ -29,10 +29,13 @@
     Forum support questions belong in the Forum Discussion & Information section
 
 
-## Minecraft Game Client Support
+## Unmodified Client Support
 
 This section is for requesting support with an unmodifed client.
 
+* __Do not ask for general minecraft help__
+
+    Help with general minecraft unrelated to the client; such as requesting help on mapping and modding should be posted in the appropriate forum. 
 * __Do not ask for help with redstone__
 
     Redstone questions should be asked in the Redstone section of Minecraft General.
@@ -48,7 +51,9 @@ This section is for requesting support with a modified client.
 
 This section is for requesting support with the server client. Anything non-bukkit server technical support questions should go here.
 
-* Do not advertise your server in this section
+* __Do not advertise your server in this section__
+
+    Server advertisements should be posted at [servers.minecraftforum.net](http://servers.minecraftforum.net/servers).
 * __Do not make blacklist threads__
 
     Do not post threads that tell people to ban a certain user from their servers. 
@@ -59,10 +64,10 @@ This section is for requesting support with the server client. Anything non-bukk
     
 ### Server Administration
 
-* Bumping once every 48 hours on support-related topics is allowed
-    * This is only this section, and only if there are no replies from other people after that time
+This section is for server administrators to post about information related to administrating a server.
+
 * Posting "there is a plugin/mod for that" without linking in the post is not allowed
-* Necroing (posting on an old topic) is not encouraged
+* Necroposting (posting on an old topic) is not encouraged
 * Read the pinned topics before posting to avoid unneeded spam for questions that are addressed in those topics
 
 
