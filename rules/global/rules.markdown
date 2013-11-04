@@ -161,7 +161,7 @@ The guidelines and information below applies to the entire forum.
     
 * __Impersonate Staff__
      
-    Do not impersonate staff, this includes the use of fake banners and titles.
+    Do not impersonate staff, this includes the use of fake banners and titles or phony IRC nicknames.
     
 
 ### Alternate Accounts
