@@ -162,6 +162,10 @@ The guidelines and information below applies to the entire forum.
 * __Impersonate Staff__
      
     Do not impersonate staff, this includes the use of fake banners and titles.
+
+* __Post or share personal/private information__
+
+    Posting or sharing of any personal or private information without explicit approval is not tolerated.
     
 
 ### Alternate Accounts
