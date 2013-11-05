@@ -21,6 +21,7 @@ To connect to another channel type /join #channel-name eg: /join #minecraftforum
 * Post malicious links or software
 * Use auto-rejoin
 * Flame or insult other users
+* Impersonate other users for any reason. This including MCF staff members or Mojang employees.
 
 ## Disclaimer
 
