@@ -5,12 +5,15 @@ or if you wish to connect through your browser click [here](http://www.minecraft
 
 To connect to another channel type /join #channel-name eg: /join #minecraftforums
 
+Please note that #minecraftforums is for minecraftforum.net-related support only. If you need Minecraft-related support, please join #minecrafthelp instead.
+
 ## Do
 
 * Read the topic
 * Be friendly and respectful
 * Be patience when waiting for help with the forum
 * Speak English
+* Register your nickname in order to prevent impersonation. See below.
 
 ## Do Not
 
@@ -21,6 +24,7 @@ To connect to another channel type /join #channel-name eg: /join #minecraftforum
 * Post malicious links or software
 * Use auto-rejoin
 * Flame or insult other users
+* Impersonate any other user, this includes forum staff members and Mojang employees.
 
 ## Disclaimer
 
@@ -29,6 +33,10 @@ The staff reserves the right to take whatever action is deemed appropriate in an
 regardless of whether there is a specific rule covering that situation or not. 
 If there is a misunderstanding or dispute, then please bring the issue up politely with that staff member in private. 
 In all matters, the decision of the channel operators is final.
+
+## Preventing Impersonation / Registering your nick
+
+It is highly recommended that you register your nickname on the EsperNet IRC network. This helps prevent another user from joining the channel and using your nickname to impersonate you. To do this, simply use your desired nickname (/nick <nicknameyouwant) and then type /msg nickserv REGISTER <password> <email-address>. Once you have successfully registered your nickname, no other user will be able to use your nickname unless they know your password. To identify yourself on IRC once you have registered yyour nickname, type /msg nickserv IDENTIFY <yourpassword>. 
 
 ## Channels
 
