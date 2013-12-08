@@ -86,8 +86,8 @@ Servers is the section for PC specific posts to be made.
 * No host may post in the topic of any other host. Host-to-host conversation must be taken to a PM
 * Hosts may offer giveaways in their topic, however the topic is not to be used for posting entries
 * The Hosting Request section is not to be used for recruiting staff for hosts, this may be done in the host's topic
-* Non-tailored posts are not allowed as replies to hosting requests. Replies to requests must meet all needs outlined in the original post (memory, price, slots, country, etc.) along with any other relevant information based on what the topic starter posted. Posting only server rates is not allowed.
-* Topics must pertain to Minecraft Based Hosting. Topics advertising non-Minecraft specific hosting are not allowed
+* Replies to hosting requests must meet all needs outlined in the original post along with any other relevant information based on what the topic starter posted (memory, price, slots, country, etc.). Posting only server rates is not allowed.
+* Topics must pertain to Minecraft based hosting. Advertising non-Minecraft specific hosting is not allowed.
 
 #### Hosting Discussion
 
