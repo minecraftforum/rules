@@ -86,8 +86,7 @@ Servers is the section for PC specific posts to be made.
 * No host may post in the topic of any other host. Host-to-host conversation must be taken to a PM
 * Hosts may offer giveaways in their topic, however the topic is not to be used for posting entries
 * The Hosting Request section is not to be used for recruiting staff for hosts, this may be done in the host's topic
-* Replies to requests must meet all needs outlined in the original post and not contain irrelevant information
-* Replies to requests must be tailored to the request, posting of just rates is not allowed
+* Non-tailored posts are not allowed as replies to hosting requests. Replies to requests must meet all needs outlined in the original post (memory, price, slots, country, etc.) along with any other relevant information based on what the topic starter posted. Posting only server rates is not allowed.
 
 #### Hosting Discussion
 
