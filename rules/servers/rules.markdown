@@ -113,6 +113,7 @@ __Do Not__
 * Create topics requesting or advertising hosting.
 * Post reviews of hosting companies or services.
 * Create topics asking for server related support, these topics should go in [Server Support](http://www.minecraftforum.net/forum/152-server-support/).
+*  Ask if a specific host is or is not a scam.
 
 ### Clans
 
