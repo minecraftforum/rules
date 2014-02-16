@@ -190,9 +190,8 @@ Members are permitted to use alt accounts under the following conditions:
     
 * Alt accounts must not break *any* of the forum rules.
 * Alt accounts must not be used to evade bans or posting suspensions.
-* Under no circumstance is an alternate account permitted to communicate or interact 
-    with any other account held by the owner(s). This includes, but is not limited 
-    to:
+* Under no circumstance is an alternate account permitted to communicate or interact with any
+other account held by the owner(s). This includes, but is not limited to:
     * +Repping posts
     * Quoting posts
 
@@ -205,6 +204,16 @@ Members are permitted to use alt accounts under the following conditions:
 
 * Creating a shared account for your clan/server/mod/host/project.
 * Creating an alt account to use as a separate identity to your main.
+
+### Local Accounts
+
+Accounts owned by unique individuals residing in the same physical location are welcome
+on the forum under the following conditions:
+
+* Local accounts must not be used to communicate with eachother. This includes but is not limited to:
+
+    * Replying to each other
+    * Posting consecutively to bump topics
 
 ### Illegal Activity
 
