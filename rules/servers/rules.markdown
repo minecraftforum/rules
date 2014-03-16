@@ -96,7 +96,7 @@ IP to a server with no description or refer the user to a signature
 * At any time, a host may be removed or banned from posting in the hosting section at the staff's discretion
 * Any feedback about a host should remain in a host's topic
 * Excessive arguments or complaints are not allowed, and should be taken to a PM
-* Members may at no time accuse a host of being a scam or otherwise attack a host in their topic. If a member has reason to believe a host is a scam a report should be filed by using the report button, or by creating a topic in [Contact Forum Administration](http://www.minecraftforum.net/forum/64-contact-forum-administration/).
+* Members may at no time accuse a host of being a scam or otherwise attack a host in their topic. If a member has reason to believe a host is a scam a report should be filed by using the report button, or by creating a topic in [Contact Forum Administration](http://www.minecraftforum.net/forum/64-contact-forum-administration/). Hosting topics should only be used for reviews, announcements, and pre-sales questions.
 * Support related posts are not allowed. Use the host's own support system or send them a private message
 * A host must apply to post in the default section, otherwise they must post in the [Other Hosts](http://www.minecraftforum.net/forum/46-other-hosts/) section
 * Posts requesting a custom quote go in the [Hosting Requests](http://www.minecraftforum.net/forum/130-hosting-requests/) section
