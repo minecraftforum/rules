@@ -56,7 +56,7 @@ This section is dedicated to multiplayer servers for the PC edition of Minecraft
 * Stealing or copying another server's original post is not allowed, this is considered plagiarism
 * Servers may be removed or banned at the staff's discretion
 * Servers are to be posted in the section that best fits what the server offers, a description of the sections can be found [here](#servers:server-types)
-* Keep reviews you make on a servers thread civil, don't specifically tell members to not join a server. Let the member decide on their own
+* Keep reviews you make on a servers thread civil. Do not specifically tell members to not join a server but instead let them decide on their own with the information you provided
 
 * __Hub Servers__
 
