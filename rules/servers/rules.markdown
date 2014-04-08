@@ -109,6 +109,7 @@ IP to a server with no description or refer the user to a signature
 
 * This section is not to be used for recruiting staff for hosts, this may be done in the host's topic
 * Replies must meet all needs outlined in the original post along with any other relevant information based on what the topic starter posted (memory, price, slots, country, etc.), posting only server rates is not allowed.
+* Replies may not include images other than a company logo. Images displaying pricing, features, or other information should not be used.
 
 
 ### Hosting Discussion
