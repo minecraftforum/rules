@@ -81,7 +81,7 @@ This section is dedicated to multiplayer servers for the PC edition of Minecraft
 ## Looking For
 
 * Posting video-related/let's play topics is not allowed
-* Only topics looking for specific servers, staff members, builders, or ideas are allowed
+* Only topics looking for specific servers, staff members, builders as being part of the staff team, or ideas are allowed
 * General server advertisement topics are not allowed
 * Copy-paste replies are not allowed, replies must be relevant to the topic
 * Replies to a topic may only be made up to 7 days after the last post by the OP
