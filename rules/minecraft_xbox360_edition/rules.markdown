@@ -40,7 +40,7 @@
 
 * __No Duplicate Suggestions__
 
-  Do not post duplicate suggestions, if an idea has been shared before continue the discussion in the pre-exisiting topic.
+  Do not post duplicate suggestions, if an idea has been shared before continue the discussion in the pre-existing topic.
 
 * __No Vague Suggestions__
 
