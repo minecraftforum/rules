@@ -68,7 +68,7 @@ made using redstone.
 ## Seeds
 
 This section is for posting and discussing seeds for maps that are considered
-impressive in some way. Posting downloads of un-edited maps is allowed bu
+impressive in some way. Posting downloads of un-edited maps is allowed but
 the seed must also be provided.
 
 * The seed must be provided in the OP (original post)
