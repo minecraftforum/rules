@@ -37,10 +37,10 @@
     dismiss the suggestion. Suggestions are primarily for vanilla Minecraft
     features.
 
-* __No Wishlists__
+* __No Wish Lists__
 
     Do not post more than one suggestion per topic. Very closely related suggestions are fine
-    but separate suggestions require separate topics. "Wishlists" will be closed or deleted.
+    but separate suggestions require separate topics. "Wish lists" will be closed or deleted.
 
 
 ## Survival Mode
