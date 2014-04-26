@@ -26,15 +26,15 @@ The discussion section is for general Pocket Edition discussion which does not f
 
 * __No Duplicate Suggestions__
 
-  Do not post duplicate suggestions, if an idea has been shared before continue the discussion in the pre-exisiting topic.
+  Do not post duplicate suggestions, if an idea has been shared before continue the discussion in the pre-existing topic.
 
 * __No Vague Suggestions__
 
   Suggestions that are vague or unclear will be removed, for proper discussion to happen suggestions must be well explained and if necessary, well demonstrated.
 
-* __No Wishlists__
+* __No Wish Lists__
 
-  Do not post more than one suggestion per topic. Very closely related suggestions are fine, but separate suggestions require separate topics. "Wishlists" will be closed or deleted.
+  Do not post more than one suggestion per topic. Very closely related suggestions are fine, but separate suggestions require separate topics. "Wish lists" will be closed or deleted.
 
 * __No Small Suggestions__
 
