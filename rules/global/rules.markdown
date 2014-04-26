@@ -167,7 +167,7 @@ Members are permitted to use alt accounts under the following conditions:
 
 ## Section Specific Rules
 
-Each section (and individual forum) may have individual rules. Sectional rules rarely supercede the global rules however they may require your posts to be in made in a specific way or contain information not required in other sections. In the event multiple rules conflict, the rule which is most relevant to that section will be applied.
+Each section (and individual forum) may have individual rules. Sectional rules rarely supersede the global rules however they may require your posts to be in made in a specific way or contain information not required in other sections. In the event multiple rules conflict, the rule which is most relevant to that section will be applied.
 
 
 ## Moderator Action
