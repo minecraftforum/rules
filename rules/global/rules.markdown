@@ -107,7 +107,7 @@ The guidelines and information below applies to the entire forum.
 
 * __Use Referral/Affiliate Links__
 
-    Posting incentive based links which reward users with cash, credit, or prizes in return for sales or click-throughs are not allowed. Monetary links such as Adf.ly are an exception to this rule, however must follow the ToS of both the monetary link service and any other rules specified.
+    Posting incentive based links which reward users with cash, credit, or prizes in return for sales or clickthroughs are not allowed. Monetary links such as adf.ly are an exception to this rule, however must follow the ToS of both the monetary link service and any other rules specified.
 
 * __Necro Post__
 
