@@ -179,7 +179,7 @@ The following information is about what to do when you find people breaking the 
 
 Rule breaking posts should be reported by any member that comes across them. There is a "report" button on every post. When a post is reported, the moderators of the site are alerted. Reports automatically include the post content so there is no need to copy the post into the report. Reports should contain an explanation of why a post is being reported and any relevant information to help speed up processing.
 
-Any content that needs moderator attention should be reported. There are no penalties for mis-reporting content, however abusing the report system is not allowed.
+Any content that needs moderator attention should be reported. There are no penalties for misreporting content, however abusing the report system is not allowed.
 
 
 ### Mini Modding
