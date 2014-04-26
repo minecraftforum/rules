@@ -53,7 +53,7 @@ This section is meant for tutorials or FAQs relating to its appropriate parent s
 
 ## Minecraft Game Client Support
 
-This section is for requesting support with an unmodifed client.
+This section is for requesting support with an unmodified client.
 
 * __Do not ask for help with redstone__
 
