@@ -59,7 +59,7 @@ The guidelines and information below applies to the entire forum.
 
 * __Trade or Sell Minecraft Accounts__
 
-    We do not allow the sale of Minecraft accounts. Minecraft accounts may be created and purchased through [Minecraft.net](http://minecraft.net). The sale of Minecraft cape codes (eg: [Minecon 2012 Capes](http://www.minecraftwiki.net/wiki/MineCon#Cape_2)) and any other game content is also disallowed.
+    We do not allow the sale of Minecraft accounts. Minecraft accounts may be created and purchased through [Minecraft.net](http://minecraft.net). The sale of Minecraft cape codes (e.g.: [Minecon 2012 Capes](http://www.minecraftwiki.net/wiki/MineCon#Cape_2)) and any other game content is also disallowed.
 
 * __Offer or Request Services/Products__
 
@@ -71,7 +71,7 @@ The guidelines and information below applies to the entire forum.
 
 * __Post Giveaways__
 
-    Member-run giveaways or contests that require performing a specific action for entry (eg: 'subscribe to my Youtube channel', 'follow me on Twitter') are not allowed.
+    Member-run giveaways or contests that require performing a specific action for entry (e.g.: 'subscribe to my Youtube channel', 'follow me on Twitter') are not allowed.
 
 * __Beg for Donations__
 
@@ -95,7 +95,7 @@ The guidelines and information below applies to the entire forum.
 
 * __Troll__
 
-    Trolling of any kind is not tolerated. Accusing someone of trolling, which is known as "Troll Calling" is also disallowed, eg: "Stop trolling", "You're a troll!". If someone is trolling then it should be reported.
+    Trolling of any kind is not tolerated. Accusing someone of trolling, which is known as "Troll Calling" is also disallowed, e.g.: "Stop trolling", "You're a troll!". If someone is trolling then it should be reported.
 
 * __Flame or Provoke__
 
@@ -154,7 +154,7 @@ Members are permitted to use alt accounts under the following conditions:
 
 * __Redistribution of Mojang Property__
 
-    Minecraft and all associated assets are property of Mojang. Redistribution of Mojang owned property (i.e. Minecraft.jar) is not allowed, all posts must remain inline with the [Minecraft Terms Of Service](http://www.minecraft.net/terms). Linking to Mojang hosted files is acceptable, eg: resources.minecraft.net.
+    Minecraft and all associated assets are property of Mojang. Redistribution of Mojang owned property (i.e. Minecraft.jar) is not allowed, all posts must remain inline with the [Minecraft Terms Of Service](http://www.minecraft.net/terms). Linking to Mojang hosted files is acceptable, e.g.: resources.minecraft.net.
 
 * __Hate Speech__
 
