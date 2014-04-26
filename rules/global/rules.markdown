@@ -201,7 +201,7 @@ When a rule is broken an infraction will be issued. There are 2 types of infract
 
 ### Informal
 
-An informal infraction is used to remind a member that they have broken the rules for the first time. Informal infractions are used as a record of when a member has been informed, and as such, do not carry any penalties. There are no infraction points issued with informals so they do not count to the posting suspension limits.
+An informal infraction is used to remind a member that they have broken the rules for the first time. Informal infractions are used as a record of when a member has been informed, and as such, do not carry any penalties. There are no infraction points issued with informal warnings so they do not count to the posting suspension limits.
 
 
 ### Formal
