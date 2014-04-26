@@ -71,7 +71,7 @@ The guidelines and information below applies to the entire forum.
 
 * __Post Giveaways__
 
-    Member-run giveaways or contests that require performing a specific action for entry (eg: 'subscribe to my Youtube channel', 'follow me on Twitter') are not allowed.
+    Member-run giveaways or contests that require performing a specific action for entry (e.g.: 'subscribe to my Youtube channel', 'follow me on Twitter') are not allowed.
 
 * __Beg for Donations__
 
