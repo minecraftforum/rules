@@ -97,7 +97,7 @@ This section is for posting and discussing seeds for worlds that are considered 
 ### Mods / Tools
 
 * Topics must have embedded images or videos
-* Topics must use the correct tags. E.G: If the mod is an iOS mod please use: [iOS
+* Topics must use the correct tags. e.g.: If the mod is an iOS mod please use: [iOS
 * Topics must have an installation guide
 * Any required permissions must be displayed in the original post
 * Smp "hack" and "cheat" mods are allowed, however they are not allowed if they are designed for griefing
