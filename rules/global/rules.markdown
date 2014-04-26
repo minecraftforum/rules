@@ -239,7 +239,7 @@ Any account specific support should be submitted through [Curse Support](http://
 
 Any general help, support, or questions should be submitted through the [Contact Forum Administration](http://www.minecraftforum.net/forum/64-contact-forum-administration/) section.
 
-The above are the only official methods of support and no guarentees are made that contacting staff members though other means (such as private messages) will be answered in a timely fashion. Infraction appeals may be handled in private messages.
+The above are the only official methods of support and no guarantees are made that contacting staff members though other means (such as private messages) will be answered in a timely fashion. Infraction appeals may be handled in private messages.
 
 
 ## Moderator Applications
