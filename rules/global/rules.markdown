@@ -177,7 +177,7 @@ The following information is about what to do when you find people breaking the 
 
 ### Reporting a Post
 
-Rule breaking posts should be reported by any member that comes across them. There is a "report" button on every post. When a post is reported, the moderators of the site are alerted. Reports automatically include the post content so there is no need to copy the post into the report. Reports should contain an explanation of why a post is being reported and any relevent information to help speed up processing.
+Rule breaking posts should be reported by any member that comes across them. There is a "report" button on every post. When a post is reported, the moderators of the site are alerted. Reports automatically include the post content so there is no need to copy the post into the report. Reports should contain an explanation of why a post is being reported and any relevant information to help speed up processing.
 
 Any content that needs moderator attention should be reported. There are no penalties for mis-reporting content, however abusing the report system is not allowed.
 
@@ -249,4 +249,4 @@ Active members of the community are encouraged to apply to be a forum moderator.
 
 ## Ban Appeals
 
-Ban appeals may be submitted to [Curse Support](http://support.curse.com/anonymous_requests/new?ticket[fields][22848886]=minecraft_forums). Please include account information, IP address(es), and any other information which may be relevent or may speed up the ban appeap process
+Ban appeals may be submitted to [Curse Support](http://support.curse.com/anonymous_requests/new?ticket[fields][22848886]=minecraft_forums). Please include account information, IP address(es), and any other information which may be relevant or may speed up the ban appeal process
