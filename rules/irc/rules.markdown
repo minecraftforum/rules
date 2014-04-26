@@ -50,7 +50,7 @@ Channel Operators and voiced users are responsible for the smooth and efficient 
 * #minecraftforums - Minecraftforum.net Support
 * #mcchatter - Minecraft users off topic chat
 * #mctextures - Minecraft texture artist chat
-* #smp - Minecraft server advertisemen
+* #smp - Minecraft server advertisement
 
 
 ## Ban Appeals
