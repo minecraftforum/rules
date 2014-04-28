@@ -59,7 +59,7 @@ The guidelines and information below applies to the entire forum.
 
 * __Trade or Sell Minecraft Accounts__
 
-    We do not allow the sale of Minecraft accounts. Minecraft accounts may be created and purchased through [Minecraft.net](http://minecraft.net). The sale of Minecraft cape codes (eg: [Minecon 2012 Capes](http://www.minecraftwiki.net/wiki/MineCon#Cape_2)) and any other game content is also disallowed.
+    We do not allow the sale of Minecraft accounts. Minecraft accounts may be created and purchased through [Minecraft.net](http://minecraft.net). The sale of Minecraft cape codes (e.g.: [Minecon 2012 Capes](http://www.minecraftwiki.net/wiki/MineCon#Cape_2)) and any other game content is also disallowed.
 
 * __Offer or Request Services/Products__
 
@@ -71,7 +71,7 @@ The guidelines and information below applies to the entire forum.
 
 * __Post Giveaways__
 
-    Member-run giveaways or contests that require performing a specific action for entry (e.g.: 'subscribe to my Youtube channel', 'follow me on Twitter') are not allowed.
+    Member-run giveaways or contests that require performing a specific action for entry (e.g.: 'subscribe to my YouTube channel', 'follow me on Twitter') are not allowed.
 
 * __Beg for Donations__
 
@@ -95,7 +95,7 @@ The guidelines and information below applies to the entire forum.
 
 * __Troll__
 
-    Trolling of any kind is not tolerated. Accusing someone of trolling, which is known as "Troll Calling" is also disallowed, eg: "Stop trolling", "You're a troll!". If someone is trolling then it should be reported.
+    Trolling of any kind is not tolerated. Accusing someone of trolling, which is known as "Troll Calling" is also disallowed, e.g.: "Stop trolling", "You're a troll!". If someone is trolling then it should be reported.
 
 * __Flame or Provoke__
 
@@ -107,7 +107,7 @@ The guidelines and information below applies to the entire forum.
 
 * __Use Referral/Affiliate Links__
 
-    Posting incentive based links which reward users with cash, credit, or prizes in return for sales or click-throughs are not allowed. Monetary links such as Adf.ly are an exception to this rule, however must follow the ToS of both the monetary link service and any other rules specified.
+    Posting incentive based links which reward users with cash, credit, or prizes in return for sales or clickthroughs are not allowed. Monetary links such as adf.ly are an exception to this rule, however must follow the ToS of both the monetary link service and any other rules specified.
 
 * __Necro Post__
 
@@ -154,7 +154,7 @@ Members are permitted to use alt accounts under the following conditions:
 
 * __Redistribution of Mojang Property__
 
-    Minecraft and all associated assets are property of Mojang. Redistribution of Mojang owned property (i.e. Minecraft.jar) is not allowed, all posts must remain inline with the [Minecraft Terms Of Service](http://www.minecraft.net/terms). Linking to Mojang hosted files is acceptable, eg: resources.minecraft.net.
+    Minecraft and all associated assets are property of Mojang. Redistribution of Mojang owned property (i.e. Minecraft.jar) is not allowed, all posts must remain inline with the [Minecraft Terms Of Service](http://www.minecraft.net/terms). Linking to Mojang hosted files is acceptable, e.g.: resources.minecraft.net.
 
 * __Hate Speech__
 
@@ -167,7 +167,7 @@ Members are permitted to use alt accounts under the following conditions:
 
 ## Section Specific Rules
 
-Each section (and individual forum) may have individual rules. Sectional rules rarely supercede the global rules however they may require your posts to be in made in a specific way or contain information not required in other sections. In the event multiple rules conflict, the rule which is most relevant to that section will be applied.
+Each section (and individual forum) may have individual rules. Sectional rules rarely supersede the global rules however they may require your posts to be in made in a specific way or contain information not required in other sections. In the event multiple rules conflict, the rule which is most relevant to that section will be applied.
 
 
 ## Moderator Action
@@ -177,9 +177,9 @@ The following information is about what to do when you find people breaking the 
 
 ### Reporting a Post
 
-Rule breaking posts should be reported by any member that comes across them. There is a "report" button on every post. When a post is reported, the moderators of the site are alerted. Reports automatically include the post content so there is no need to copy the post into the report. Reports should contain an explanation of why a post is being reported and any relevent information to help speed up processing.
+Rule breaking posts should be reported by any member that comes across them. There is a "report" button on every post. When a post is reported, the moderators of the site are alerted. Reports automatically include the post content so there is no need to copy the post into the report. Reports should contain an explanation of why a post is being reported and any relevant information to help speed up processing.
 
-Any content that needs moderator attention should be reported. There are no penalties for mis-reporting content, however abusing the report system is not allowed.
+Any content that needs moderator attention should be reported. There are no penalties for misreporting content, however abusing the report system is not allowed.
 
 
 ### Mini Modding
@@ -201,7 +201,7 @@ When a rule is broken an infraction will be issued. There are 2 types of infract
 
 ### Informal
 
-An informal infraction is used to remind a member that they have broken the rules for the first time. Informal infractions are used as a record of when a member has been informed, and as such, do not carry any penalities. There are no infraction points issued with informals so they do not count to the posting suspension limits.
+An informal infraction is used to remind a member that they have broken the rules for the first time. Informal infractions are used as a record of when a member has been informed, and as such, do not carry any penalties. There are no infraction points issued with informal warnings so they do not count to the posting suspension limits.
 
 
 ### Formal
@@ -239,7 +239,7 @@ Any account specific support should be submitted through [Curse Support](http://
 
 Any general help, support, or questions should be submitted through the [Contact Forum Administration](http://www.minecraftforum.net/forum/64-contact-forum-administration/) section.
 
-The above are the only official methods of support and no guarentees are made that contacting staff members though other means (such as private messages) will be answered in a timely fashion. Infraction appeals may be handled in private messages.
+The above are the only official methods of support and no guarantees are made that contacting staff members though other means (such as private messages) will be answered in a timely fashion. Infraction appeals may be handled in private messages.
 
 
 ## Moderator Applications
@@ -249,4 +249,4 @@ Active members of the community are encouraged to apply to be a forum moderator.
 
 ## Ban Appeals
 
-Ban appeals may be submitted to [Curse Support](http://support.curse.com/anonymous_requests/new?ticket[fields][22848886]=minecraft_forums). Please include account information, IP address(es), and any other information which may be relevent or may speed up the ban appeap process
+Ban appeals may be submitted to [Curse Support](http://support.curse.com/anonymous_requests/new?ticket[fields][22848886]=minecraft_forums). Please include account information, IP address(es), and any other information which may be relevant or may speed up the ban appeal process

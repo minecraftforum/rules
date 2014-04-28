@@ -22,25 +22,25 @@
 * __No Duplicate Suggestions__
 
     Do not post duplicate suggestions, if an idea has been shared before continue
-    the discussion in the pre-exisiting topics.
+    the discussion in the pre-existing topics.
 
 * __No Vague Suggestions__
 
     Suggestions that are vague or unclear will be removed, for proper discussion
-    to happen suggestions must be well explained and if necessary, wel
+    to happen suggestions must be well explained and if necessary, well
     demonstrated.
 
 * __Existing Mod(s)__
 
     If a mod exists that provides part (or all) of the suggestions request linking
-    to the mod is encouraged, however do not use the existence of a mod t
+    to the mod is encouraged, however do not use the existence of a mod to
     dismiss the suggestion. Suggestions are primarily for vanilla Minecraft
     features.
 
-* __No Wishlists__
+* __No Wish Lists__
 
     Do not post more than one suggestion per topic. Very closely related suggestions are fine
-    but separate suggestions require separate topics. "Wishlists" will be closed or deleted.
+    but separate suggestions require separate topics. "Wish lists" will be closed or deleted.
 
 
 ## Survival Mode
@@ -68,7 +68,7 @@ made using redstone.
 ## Seeds
 
 This section is for posting and discussing seeds for maps that are considered
-impressive in some way. Posting downloads of un-edited maps is allowed bu
+impressive in some way. Posting downloads of un-edited maps is allowed but
 the seed must also be provided.
 
 * The seed must be provided in the OP (original post)

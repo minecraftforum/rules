@@ -32,7 +32,7 @@
 ## Tutorials and FAQs
 
 This section is meant for tutorials or FAQs relating to its appropriate parent section
-    [This topic](http://www.minecraftforum.net/forum-154/announcement-70-how-to-submit-a-tutorial-or-faq-thread/) has information on how to submit a tutorial or an faq.
+    [This topic](http://www.minecraftforum.net/forum-154/announcement-70-how-to-submit-a-tutorial-or-faq-thread/) has information on how to submit a tutorial or an FAQ.
 
 * __Topics must be kept up-to-date__
 
@@ -53,7 +53,7 @@ This section is meant for tutorials or FAQs relating to its appropriate parent s
 
 ## Minecraft Game Client Support
 
-This section is for requesting support with an unmodifed client.
+This section is for requesting support with an unmodified client.
 
 * __Do not ask for help with redstone__
 
