@@ -21,14 +21,13 @@
 
 * __No Duplicate Suggestions__
 
-    Do not post duplicate suggestions, if an idea has been shared before continue
-    the discussion in the pre-exisiting topics.
+    Unless a suggestion hasn't had any discussion in over a month, do not post a duplicate of that suggestion. Variations of an existing suggestion are fine, as long as the suggestion covers different ground then the original (i.e two dragon mob suggestion threads can exist as long as there is variation between them). Do not make duplicates of commonly suggested items; including, but not limited to, Obsidiean Armor/Tools, Emerald Armor/Tools, etc.
 
 * __No Vague Suggestions__
 
-    Suggestions that are vague or unclear will be removed, for proper discussion
-    to happen suggestions must be well explained and if necessary, well
-    demonstrated.
+    Suggestions that are vague or unclear will be removed. For proper discussion
+    to happen suggestions must be well explained and, if necessary, well
+    demonstrated. However, this does not mean suggestions need to be fully fleshed out before posting. As long as a meaningful discussion can take place, a suggestion will not be considered vague.
 
 * __Existing Mod(s)__
 
