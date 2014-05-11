@@ -21,7 +21,7 @@
 
 * __No Duplicate Suggestions__
 
-    Unless a suggestion hasn't had any discussion in over a month, do not post a duplicate of that suggestion. Variations of an existing suggestion are fine, as long as the suggestion covers different ground then the original (i.e two dragon mob suggestion threads can exist as long as there is variation between them). Do not make duplicates of commonly suggested items; including, but not limited to, Obsidian Armor/Tools, Emerald Armor/Tools, etc.
+    Unless a suggestion hasn't had any discussion in over a month, do not post a duplicate of that suggestion. Variations of an existing suggestion are fine, as long as the suggestion covers different ground than the original (i.e two dragon mob suggestion threads can exist as long as there is variation between them). Do not make duplicates of commonly suggested items; including, but not limited to, Obsidian Armor/Tools, Emerald Armor/Tools, etc.
 
 * __No Vague Suggestions__
 
